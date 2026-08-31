@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "repository": "target",
+    "generated_at": "2026-08-31T01:07:51.685904",
+    "analyzer": "readme3",
+    "version": "2.0-evidence-first",
+    "file_count": 17
+  },
+  "policy": {
+    "purpose": "Repository evidence extraction for documentation generation.",
+    "important_rule": "Signals do not automatically represent confirmed product capabilities."
+  },
+  "files": [
+    {
+      "path": ".gitattributes",
+      "name": ".gitattributes",
+      "ext": "",
+      "language": "Other",
+      "size": 66,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "LT852-21 Data Intelligence.pdf",
+      "name": "LT852-21 Data Intelligence.pdf",
+      "ext": ".pdf",
+      "language": "Other",
+      "size": 249779,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "SIAU_15632.xlsx",
+      "name": "SIAU_15632.xlsx",
+      "ext": ".xlsx",
+      "language": "Other",
+      "size": 19558,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/BD_Especies.xlsx",
+      "name": "BD_Especies.xlsx",
+      "ext": ".xlsx",
+      "language": "Other",
+      "size": 19304194,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/Diagrama de BD.jpg",
+      "name": "Diagrama de BD.jpg",
+      "ext": ".jpg",
+      "language": "Other",
+      "size": 265610,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/Logo Final 10 años REDD Version 2 GIF Transparente.gif",
+      "name": "Logo Final 10 años REDD Version 2 GIF Transparente.gif",
+      "ext": ".gif",
+      "language": "Other",
+      "size": 608575,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/WhatsApp Image 2021-03-09 at 19.46.31.jpeg",
+      "name": "WhatsApp Image 2021-03-09 at 19.46.31.jpeg",
+      "ext": ".jpeg",
+      "language": "Other",
+      "size": 45923,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/Critical Species.xlsx",
+      "name": "Critical Species.xlsx",
+      "ext": ".xlsx",
+      "language": "Other",
+      "size": 16707,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/PASO_PASO.pptx",
+      "name": "PASO_PASO.pptx",
+      "ext": ".pptx",
+      "language": "Other",
+      "size": 2688615,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/Con el apoyo de. 190218.jpg",
+      "name": "Con el apoyo de. 190218.jpg",
+      "ext": ".jpg",
+      "language": "Other",
+      "size": 180922,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/1er Seminario Virtual. Instrumentos para Monitoreo de Bo-Copiar.pdf",
+      "name": "1er Seminario Virtual. Instrumentos para Monitoreo de Bo-Copiar.pdf",
+      "ext": ".pdf",
+      "language": "Other",
+      "size": 1910150,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/WhatsApp Image 2021-03-09 at 19.46.41.jpeg",
+      "name": "WhatsApp Image 2021-03-09 at 19.46.41.jpeg",
+      "ext": ".jpeg",
+      "language": "Other",
+      "size": 5589,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/Módulos del Sistema FIS con sus tablas correspondientes en la Base de Datos FIS 1.docx",
+      "name": "Módulos del Sistema FIS con sus tablas correspondientes en la Base de Datos FIS 1.docx",
+      "ext": ".docx",
+      "language": "Other",
+      "size": 51884936,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/Logo Final 10 años REDD Version 2 JPG.jpg",
+      "name": "Logo Final 10 años REDD Version 2 JPG.jpg",
+      "ext": ".jpg",
+      "language": "Other",
+      "size": 1494091,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/AD_2000-2018_Join_PAs_manged_unmanged_lands_07_07_2020.csv",
+      "name": "AD_2000-2018_Join_PAs_manged_unmanged_lands_07_07_2020.csv",
+      "ext": ".csv",
+      "language": "Other",
+      "size": 9548876,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": "GIZ-Fabio/Puntos_2000_2020_Belice..xlsx",
+      "name": "Puntos_2000_2020_Belice..xlsx",
+      "ext": ".xlsx",
+      "language": "Other",
+      "size": 8250747,
+      "text": false,
+      "important": false
+    },
+    {
+      "path": ".github/workflows/readme.yml",
+      "name": "readme.yml",
+      "ext": ".yml",
+      "language": "YAML",
+      "size": 223,
+      "text": true,
+      "important": false
+    }
+  ],
+  "structure": {
+    ".gitattributes": 1,
+    "LT852-21 Data Intelligence.pdf": 1,
+    "SIAU_15632.xlsx": 1,
+    "GIZ-Fabio": 13,
+    ".github": 1
+  },
+  "important_files": [
+    ".github/workflows/readme.yml"
+  ],
+  "technologies": {},
+  "dependencies": {
+    "npm": [],
+    "python": []
+  },
+  "environment_variables": [],
+  "api": [],
+  "database_tables": [],
+  "capability_signals": {},
+  "analysis": {},
+  "existing_readme": {
+    "exists": false,
+    "summary": []
+  }
+}
